@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FunctionsTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-11-19T22:11:34" hostname="LAPTOP-7DD7ICVD" time="0.027">
+  <properties/>
+  <testcase name="getRootsHasNotRootsTest()" classname="FunctionsTest" time="0.019"/>
+  <testcase name="getRootsHasRootsTest()" classname="FunctionsTest" time="0.0"/>
+  <testcase name="quadraticFunctionTest()" classname="FunctionsTest" time="0.001"/>
+  <testcase name="linearFunctionTest()" classname="FunctionsTest" time="0.003"/>
+  <testcase name="absoluteValueWhenXIsNegativeTest()" classname="FunctionsTest" time="0.0"/>
+  <testcase name="absoluteValueWhenXIsNonNegativeTest()" classname="FunctionsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
