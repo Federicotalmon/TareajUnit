@@ -8,7 +8,7 @@ public class FunctionsTest {
 
     @Test
     public void linearFunctionTest(){
-        int result = functions.linearFunction(1,1,1);
+        int result = functions.linearFunction(2,3,2);
         assertEquals(7,result);
 
     }
